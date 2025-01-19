@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on [cunicu](https://cunicu.li), a zero-configuration daemon for managing peer-to-peer Wireguard VPN mesh networks
 - 🌱 I’m currently learning Rust and React
@@ -9,3 +9,13 @@
 
 - 📚 Personal Blog: [noteblok.net](https://noteblok.net)
 - 📜 Gitea instance: [git.0l.de](https://git.0l.de)
+
+### Funding
+
+I develop and maintain various open source projects with a passion in my spare time.
+If you find them useful and would like to support their continued development, consider making a voluntary donation.
+Your contributions help cover development costs, hosting, enhance features, and ensure long-term maintenance.
+
+Every contribution, big or small, makes a difference. Thank you for your support!
+
+[![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/stv0g/donate)
