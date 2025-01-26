@@ -10,6 +10,12 @@
 - 📚 Personal Blog: [noteblok.net](https://noteblok.net)
 - 📜 Gitea instance: [git.0l.de](https://git.0l.de)
 
+### Contact
+
+- 📧 Mail: post@steffenvogel.de
+- 🐘 Mastodon: [stv0g@chaos.social](https://chaos.social/@stv0g)
+- 💬 Matrix: @stv0ge:matrix.org
+
 ### Funding
 
 I develop and maintain various open source projects with a passion in my spare time.
