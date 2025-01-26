@@ -16,7 +16,7 @@
 - 🐘 Mastodon: [stv0g@chaos.social](https://chaos.social/@stv0g)
 - 💬 Matrix: @stv0ge:matrix.org
 
-### Funding
+### Donations
 
 I develop and maintain various open source projects with a passion in my spare time.
 If you find them useful and would like to support their continued development, consider making a voluntary donation.
