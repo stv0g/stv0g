@@ -1,3 +1,8 @@
+> [!IMPORTANT]  
+> Most of my own work is hosted on Codeberg: **https://codeberg.org/stv0g**
+>
+> Read here, on why you should [Give Up Github](https://sfconservancy.org/GiveUpGitHub/) as well!
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on [cunicu](https://cunicu.li), a zero-configuration daemon for managing peer-to-peer Wireguard VPN mesh networks
@@ -8,7 +13,8 @@
 
 
 - 📚 Personal Blog: [noteblok.net](https://noteblok.net)
-- 📜 Gitea instance: [git.0l.de](https://git.0l.de)
+- 📜 Codeberg Account: [codeberg.org/stv0g](https://codeberg.org/stv0g)
+- 📜 Personal Forge: [git.0l.de](https://git.0l.de)
 
 ### Contact
 
