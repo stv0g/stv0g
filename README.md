@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Rust and React
 - 👯 I’m looking to collaborate on open-source networking projects written in Go
 - 🤔 I’m looking for help with systems programming and networking
-- 😄 Pronouns: he
+- 😄 Pronouns: he/him
 
 
 - 📚 Personal Blog: [noteblok.net](https://noteblok.net)
