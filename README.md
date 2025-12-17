@@ -20,3 +20,13 @@ Please check out these resources for more infos:
   - 💵 Sponsorship: [0l.de/sponsor](https://0l.de/sponsor)
 - 🧑🏻‍💻 Personal Forge: [git.0l.de](https://git.0l.de)
 - 🧑🏻‍💻 Codeberg Account: [codeberg.org/stv0g](https://codeberg.org/stv0g)
+
+### Donations
+
+I develop and maintain various open source projects with a passion in my spare time.
+If you find them useful and would like to support their continued development, consider making a voluntary donation.
+Your contributions help cover development costs, hosting, enhance features, and ensure long-term maintenance.
+
+Every contribution, big or small, makes a difference. Thank you for your support!
+
+[![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/stv0g/donate)
